@@ -21,20 +21,3 @@ const calculateTemp = () =>{
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// https://www.youtube.com/watch?v=Muy1gCsK7vA&ab_channel=Mr.Scientist
-// 2.45
